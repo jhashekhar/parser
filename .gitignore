@@ -1,2 +1,8 @@
 *.o
 *.hi
+
+#specific files
+
+src/main
+src/main.o
+src/main.hi
